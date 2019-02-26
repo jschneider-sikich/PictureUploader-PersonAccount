@@ -8,5 +8,9 @@
 		<members>*</members>
 		<name>ApexPage</name>
 	</types>
+	<types>
+		<members>*</members>
+		<name>Layout</name>
+	</types>
 <version>38.0</version>
 </Package>
