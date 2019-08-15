@@ -11,7 +11,7 @@
                 }
                 .slds-media__figure { margin-right: 0; }
                 
-                .contact-img { max-height: 120px; }
+                .contact-img { max-height: 360px; }
             </style>
         </head>
         
